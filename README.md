@@ -90,8 +90,7 @@ Swag-Labs-UI-Automation
 
 ## 📸 Project Structure
 
-![Project Structure](images/SwagLabs_project_structure.png)
-
+![Project Structure](images/Swag%20Labs%20project_structure.png)
 ---
 
 ## 📊 Allure Report
