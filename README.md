@@ -190,7 +190,7 @@ https://drive.google.com/drive/folders/1pX--cHhkbmdDcZMMnozbzxmYm_hIHzFc?usp=sha
 
 ### GitHub
 
-https://github.com/muhammed-elgarf
+[https://github.com/muhammed-elgarf](https://github.com/muhammed-elgarf/Swag-Labs-UI-Automation)
 
 ### LinkedIn
 
