@@ -90,7 +90,7 @@ Swag-Labs-UI-Automation
 
 ## 📸 Project Structure
 
-![Project Structure](images/SwagLabs_project_structure.png)
+images/Swag Labs project_structure.png
 
 ---
 
