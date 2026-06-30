@@ -10,6 +10,8 @@ This project demonstrates a complete UI Test Automation Framework developed for 
 
 The framework follows industry-standard automation testing practices with a clean and maintainable architecture. It automates the complete purchasing workflow from user login to successful checkout while ensuring code reusability, scalability, and readability.
 
+The framework is designed to simulate real-world automation testing practices, making it suitable for portfolio presentation and continuous learning.
+
 ---
 
 ## ✨ Framework Features
@@ -27,10 +29,10 @@ The framework follows industry-standard automation testing practices with a clea
 
 ---
 
-# 🧪 Automated Test Scenarios
+## 🧪 Automated Test Scenarios
 
 | Test Case | Status |
-|-----------|--------|
+|-----------|:------:|
 | TC01 - Valid Login | ✅ |
 | TC02 - Add Product To Cart | ✅ |
 | TC03 - Verify Product In Cart | ✅ |
@@ -40,7 +42,7 @@ The framework follows industry-standard automation testing practices with a clea
 
 ---
 
-# 🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 | Category | Technology |
 |-----------|------------|
@@ -57,10 +59,10 @@ The framework follows industry-standard automation testing practices with a clea
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
-```
-Swag Labs
+```text
+Swag-Labs-UI-Automation
 │
 ├── src
 │   ├── main
@@ -86,50 +88,53 @@ Swag Labs
 
 ---
 
-# 📸 Project Structure
+## 📸 Project Structure
 
-![Project Structure](images/Swag%20Labs%20project_structure.png)
+![Project Structure](images/SwagLabs_project_structure.png)
 
 ---
 
-# 📊 Allure Report
+## 📊 Allure Report
 
-## Overview
+### Overview
 
 ![Allure Overview](images/SwagLabs_AllureResults.png)
+
 ---
 
-## Test Suites
+### Test Suites
 
-![Allure Suites](images/SwagLabs_SuitesResults.png)---
+![Allure Suites](images/SwagLabs_SuitesResults.png)
 
-# ▶️ How To Run
+---
 
-## Clone Repository
+## ▶️ How To Run
+
+### Clone Repository
 
 ```bash
 git clone https://github.com/muhammed-elgarf/Swag-Labs-UI-Automation.git
 ```
 
-## Navigate To Project
+### Navigate To Project
 
 ```bash
 cd Swag-Labs-UI-Automation
 ```
 
-## Install Dependencies
+### Install Dependencies
 
 ```bash
 mvn clean install
 ```
 
-## Execute Test Suite
+### Execute Test Suite
 
 ```bash
 mvn test
 ```
 
-## Generate Allure Report
+### Generate Allure Report
 
 ```bash
 allure serve allure-results
@@ -137,30 +142,29 @@ allure serve allure-results
 
 ---
 
-# 📁 Test Data
+## 📁 Test Data
 
 The framework uses JSON files to store test data.
 
-```
+```text
 LoginData.json
-
 CheckoutData.json
 ```
 
 ---
 
-# 📈 Test Execution Summary
+## 📈 Test Execution Summary
 
 | Metric | Result |
-|--------|--------|
-| Total Test Cases | 6 |
-| Passed | 6 |
-| Failed | 0 |
+|--------|:------:|
+| Total Test Cases | **6** |
+| Passed | **6** |
+| Failed | **0** |
 | Pass Rate | **100%** |
 
 ---
 
-# 🎯 Framework Highlights
+## 🎯 Framework Highlights
 
 - End-to-End UI Automation
 - Modular Page Object Architecture
@@ -174,31 +178,35 @@ CheckoutData.json
 
 ---
 
-# 🎥 Project Demo
+## 🎥 Project Demo
 
-### Demo Video & Additional Resources
+### 📁 Demo Video & Additional Resources
 
 https://drive.google.com/drive/folders/1pX--cHhkbmdDcZMMnozbzxmYm_hIHzFc?usp=sharing
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-## Muhammed Raafat ElGarf
+### Muhammed Raafat ElGarf
 
-**Software Testing Engineer**
+**Software QA & Automation Test Engineer**
 
-### GitHub
+### 🔗 GitHub Repository
 
-[https://github.com/muhammed-elgarf](https://github.com/muhammed-elgarf/Swag-Labs-UI-Automation)
+https://github.com/muhammed-elgarf/Swag-Labs-UI-Automation
 
-### LinkedIn
+### 🔗 GitHub Profile
+
+https://github.com/muhammed-elgarf
+
+### 🔗 LinkedIn
 
 https://www.linkedin.com/in/muhammed-el-garf-798bb432a/
 
 ---
 
-# ⭐ Support
+## ⭐ Support
 
 If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
@@ -208,4 +216,4 @@ It helps support the project and encourages future improvements.
 
 ## 📄 License
 
-This project is intended for learning, portfolio demonstration, and automation testing practice.
+This project was developed for learning, portfolio demonstration, and automation testing practice.
