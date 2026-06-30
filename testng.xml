@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SwagLabsSuite">
+
+    <test name="Regression Suite">
+
+        <classes>
+
+            <class name="tests.TC1_ValidLogin"/>
+            <class name="tests.TC2_AddProductToCart"/>
+            <class name="tests.TC3_VerifyProductInCart"/>
+            <class name="tests.TC4_RemoveProductFromCart"/>
+            <class name="tests.TC5_CheckoutInformation"/>
+            <class name="tests.TC6_CompleteCheckout"/>
+
+        </classes>
+
+    </test>
+
+</suite>
