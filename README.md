@@ -96,8 +96,7 @@ Swag Labs
 
 ## Overview
 
-![Allure Overview](images/Swag%20Labs%20Allure%20Results.png)
-
+![Allure Overview](./images/Swag%20Labs%20Allure%20Results.png)
 ---
 
 ## Test Suites
