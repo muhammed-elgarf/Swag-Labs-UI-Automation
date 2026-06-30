@@ -184,9 +184,9 @@ https://drive.google.com/drive/folders/1pX--cHhkbmdDcZMMnozbzxmYm_hIHzFc?usp=sha
 
 # 👨‍💻 Author
 
-## Muhammed ElGarf
+## Muhammed Raafat ElGarf
 
-**Software QA & Automation Test Engineer**
+**Software Testing Engineer**
 
 ### GitHub
 
