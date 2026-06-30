@@ -96,14 +96,12 @@ Swag Labs
 
 ## Overview
 
-![Allure Overview](./images/Swag%20Labs%20Allure%20Results.png)
+![Allure Overview](images/SwagLabs_AllureResults.png)
 ---
 
 ## Test Suites
 
-![Allure Suites](images/Swag%20Labs%20Suites%20Results.png)
-
----
+![Allure Suites](images/SwagLabs_SuitesResults.png)---
 
 # ▶️ How To Run
 
